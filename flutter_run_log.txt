@@ -1,0 +1,182 @@
+﻿[ +380 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[        ] executing: [D:\SRC\flutter_windows_3.41.4-stable\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[  +76 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2026-03-03 16:03:22 -0800
+[  +24 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +89 ms] executing: C:\Users\Quy Pham\AppData\Local\Android\sdk\platform-tools\adb.exe devices -l
+[+2226 ms] List of devices attached
+
+
+           * daemon not running; starting now at tcp:5037
+           * daemon started successfully
+[   +2 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +26 ms] No supported devices found with name or id matching 'emulator-5554'.
+[        ] The following devices were found:
+[  +93 ms] Windows (desktop) â€¢ windows â€¢ windows-x64    â€¢ Microsoft Windows [Version 10.0.26200.8117]
+[   +1 ms] Chrome (web)      â€¢ chrome  â€¢ web-javascript â€¢ Google Chrome 146.0.7680.178
+[        ] Edge (web)        â€¢ edge    â€¢ web-javascript â€¢ Microsoft Edge 146.0.3856.84
+[  +10 ms] "flutter run" took 2.462ms.
+flutter : [  +51 ms] 
+At line:1 char:1
++ flutter run -d 
+emulator-5554 --verbose 
+2>&1 | Out-File -FilePath 
+"d:\ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: ([  
+    +51 ms] :String) []   
+ , RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+           #0      
+throwToolExit (package:flu
+tter_tools/src/base/common
+.dart:34:3)
+           #1      RunComm
+and.validateCommand (packa
+ge:flutter_tools/src/comma
+nds/run.dart:673:7)
+           <asynchronous 
+suspension>
+           #2      Flutter
+Command.verifyThenRunComma
+nd (package:flutter_tools/
+src/runner/flutter_command
+.dart:1912:5)
+           <asynchronous 
+suspension>
+           #3      Flutter
+Command.run.<anonymous 
+closure> (package:flutter_
+tools/src/runner/flutter_c
+ommand.dart:1590:27)
+           <asynchronous 
+suspension>
+           #4      
+AppContext.run.<anonymous 
+closure> (package:flutter_
+tools/src/base/context.dar
+t:154:19)
+           <asynchronous 
+suspension>
+           #5      
+CommandRunner.runCommand (
+package:args/command_runne
+r.dart:212:13)
+           <asynchronous 
+suspension>
+           #6      Flutter
+CommandRunner.runCommand.<
+anonymous closure> (packag
+e:flutter_tools/src/runner
+/flutter_command_runner.da
+rt:496:9)
+           <asynchronous 
+suspension>
+           #7      
+AppContext.run.<anonymous 
+closure> (package:flutter_
+tools/src/base/context.dar
+t:154:19)
+           <asynchronous 
+suspension>
+           #8      Flutter
+CommandRunner.runCommand (
+package:flutter_tools/src/
+runner/flutter_command_run
+ner.dart:431:5)
+           <asynchronous 
+suspension>
+           #9      Flutter
+CommandRunner.run.<anonymo
+us closure> (package:flutt
+er_tools/src/runner/flutte
+r_command_runner.dart:307:
+33)
+           <asynchronous 
+suspension>
+           #10     
+run.<anonymous 
+closure>.<anonymous 
+closure> (package:flutter_
+tools/runner.dart:104:11)
+           <asynchronous 
+suspension>
+           #11     
+AppContext.run.<anonymous 
+closure> (package:flutter_
+tools/src/base/context.dar
+t:154:19)
+           <asynchronous 
+suspension>
+           #12     main (p
+ackage:flutter_tools/execu
+table.dart:103:3)
+           <asynchronous 
+suspension>
+
+
+[   +2 ms] Running 2 shutdown hooks
+[   +5 ms] Shutdown hooks complete
+[ +260 ms] exiting with code 1

@@ -4,10 +4,12 @@ import '../user/user_home_screen.dart';
 
 class RoleGuard extends StatelessWidget {
   final String role;
+  final int userId; // ✅ Thêm userId
 
   const RoleGuard({
     super.key,
     required this.role,
+    required this.userId, // ✅ Bắt buộc
   });
 
   @override
@@ -15,6 +17,7 @@ class RoleGuard extends StatelessWidget {
     if (role == 'admin') {
       return const AdminHomeScreen();
     }
-    return const UserHomeScreen();
+    // ✅ Truyền userId xuống UserHomeScreen
+    return UserHomeScreen(userId: userId);
   }
 }

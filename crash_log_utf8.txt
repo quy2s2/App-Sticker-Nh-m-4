@@ -1,0 +1,172 @@
+﻿Launching lib\main.dart on sdk gphone16k x86 64 in debug mode...
+Running Gradle task 'assembleDebug'...                             16,0s
+âˆ Built build\app\outputs\flutter-apk\app-debug.apk
+Installing build\app\outputs\flutter-apk\app-debug.apk...        1.176ms
+D/FlutterJNI(19635): Beginning load of flutter...
+D/FlutterJNI(19635): flutter (null) was loaded normally!
+D/FlutterRenderer(19635): Width is zero. 0,0
+I/flutter (19635): [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+I/Choreographer(19635): Skipped 106 frames!  The application may be doing too much work on its main thread.
+D/WindowOnBackDispatcher(19635): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@82f87b5
+Syncing files to device sdk gphone16k x86 64...                 
+I/WindowExtensionsImpl(19635): Initializing Window Extensions, vendor API level=10, activity embedding enabled=true
+W/UiContextUtils(19635): Requested context is a non-UI Context. Creating a UI-Context with display: 0. Context: Context=android.app.Application@e8dfc2a, of which baseContext=android.app.ContextImpl@f2b03d9
+D/VRI[MainActivity](19635): WindowInsets changed: 1080x2424 statusBars:[0,142,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,174,0,84] 
+D/FlutterRenderer(19635): Width is zero. 0,0
+I/Surface (19635): Creating surface for consumer unnamed-19635-0 with slotExpansion=1 for 64 slots
+I/Surface (19635): Creating surface for consumer VRI[MainActivity]#0(BLAST Consumer)0 with slotExpansion=1 for 64 slots
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/Surface (19635): Creating surface for consumer unnamed-19635-1 with slotExpansion=1 for 64 slots
+I/Surface (19635): Creating surface for consumer ac0999b SurfaceView[com.example.stickit_app/com.example.stickit_app.MainActivity]#1(BLAST Consumer)1 with slotExpansion=1 for 64 slots
+Syncing files to device sdk gphone16k x86 64...                    132ms
+
+Flutter run key commands.
+r Hot reload. 
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
+A Dart VM Service on sdk gphone16k x86 64 is available at: http://127.0.0.1:63914/ZORYVJI73IY=/
+The Flutter DevTools debugger and profiler on sdk gphone16k x86 64 is available at: http://127.0.0.1:63914/ZORYVJI73IY=/devtools/?uri=ws://127.0.0.1:63914/ZORYVJI73IY=/ws
+D/ProfileInstaller(19635): Installing profile for com.example.stickit_app
+I/Choreographer(19635): Skipped 136 frames!  The application may be doing too much work on its main thread.
+D/WindowLayoutComponentImpl(19635): Register WindowLayoutInfoListener on Context=com.example.stickit_app.MainActivity@2ad9676, of which baseContext=android.app.ContextImpl@7eb3d05
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/Choreographer(19635): Skipped 289 frames!  The application may be doing too much work on its main thread.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/InsetsController(19635): hide(ime())
+I/ImeTracker(19635): com.example.stickit_app:a4deee8: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+I/ple.stickit_app(19635): Compiler allocated 5225KB to compile void android.view.ViewRootImpl.performTraversals(long)
+I/ImeTracker(19635): com.example.stickit_app:79b27ed: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false userId 0 displayId 0
+I/HWUI    (19635): Using FreeType backend (prop=Auto)
+D/InsetsController(19635): show(ime())
+D/InsetsController(19635): Setting requestedVisibleTypes to 511 (was 503)
+W/ple.stickit_app(19635): Suspending all threads took: 9.312ms
+I/ple.stickit_app(19635): NativeAlloc concurrent mark compact GC freed 2313KB AllocSpace bytes, 6(224KB) LOS objects, 49% free, 2779KB/5558KB, paused 36.714ms,40.526ms total 254.584ms
+D/InputConnectionAdaptor(19635): The input method toggled cursor monitoring on
+I/AssistStructure(19635): Flattened final assist data: 428 bytes, containing 1 windows, 3 views
+D/WindowOnBackDispatcher(19635): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@7f78944
+W/InteractionJankMonitor(19635): Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.example.stickit_app
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/ImeTracker(19635): com.example.stickit_app:79b27ed: onShown
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/WindowOnBackDispatcher(19635): setTopOnBackInvokedCallback (unwrapped): io.flutter.embedding.android.FlutterActivity$1@529289d
+I/ImeTracker(19635): com.example.stickit_app:73dd2fc6: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false userId 0 displayId 0
+D/InsetsController(19635): hide(ime())
+D/InsetsController(19635): Setting requestedVisibleTypes to 503 (was 511)
+D/CompatChangeReporter(19635): Compat change id reported: 395521150; UID 10229; state: ENABLED
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/ImeTracker(19635): system_server:32c2b851: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/ImeTracker(19635): com.example.stickit_app:89d485ac: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false userId 0 displayId 0
+D/InsetsController(19635): show(ime())
+D/InsetsController(19635): Setting requestedVisibleTypes to 511 (was 503)
+D/InputConnectionAdaptor(19635): The input method toggled cursor monitoring on
+D/WindowOnBackDispatcher(19635): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@7f78944
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/ImeTracker(19635): com.example.stickit_app:89d485ac: onShown
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/ImeTracker(19635): com.example.stickit_app:de0ab650: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false userId 0 displayId 0
+D/InsetsController(19635): show(ime())
+I/ImeTracker(19635): com.example.stickit_app:de0ab650: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+I/ImeTracker(19635): com.example.stickit_app:30e6f4bb: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false userId 0 displayId 0
+D/InsetsController(19635): show(ime())
+I/ImeTracker(19635): com.example.stickit_app:30e6f4bb: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+D/InputConnectionAdaptor(19635): The input method toggled cursor monitoring on
+I/ImeTracker(19635): com.example.stickit_app:1259e948: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false userId 0 displayId 0
+D/InsetsController(19635): hide(ime())
+D/WindowOnBackDispatcher(19635): setTopOnBackInvokedCallback (unwrapped): io.flutter.embedding.android.FlutterActivity$1@529289d
+D/InsetsController(19635): Setting requestedVisibleTypes to 503 (was 511)
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/Choreographer(19635): Skipped 51 frames!  The application may be doing too much work on its main thread.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/ImeTracker(19635): system_server:887ff1a2: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+W/AccessibilityBridge(19635): Using AnnounceSemanticsEvent for accessibility is deprecated on Android. Migrate to using semantic properties for a more robust and accessible user experience.
+W/AccessibilityBridge(19635): Flutter: If you are unsure why you are seeing this bug, it might be because you are using a widget that calls this method. See https://github.com/flutter/flutter/issues/165510 for more details.
+W/AccessibilityBridge(19635): Android documentation: https://developer.android.com/reference/android/view/View#announceForAccessibility(java.lang.CharSequence)
+I/HWUI    (19635): Davey! duration=917ms; Flags=0, FrameTimelineVsyncId=59836, IntendedVsync=806719969422, Vsync=807569969388, InputEventId=0, HandleInputStart=807573929900, AnimationStart=807574025000, PerformTraversalsStart=807576527500, DrawStart=807576786500, FrameDeadline=806753302754, FrameStartTime=807572716100, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=807576874900, SyncStart=807577092700, IssueDrawCommandsStart=807577194200, SwapBuffers=807594613100, FrameCompleted=807638142000, DequeueBufferDuration=23000, QueueBufferDuration=1573800, GpuCompleted=807638142000, SwapBuffersCompleted=807609487700, DisplayPresentTime=0, CommandSubmissionCompleted=807594613100, 
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/ImeTracker(19635): com.example.stickit_app:1555ae9e: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false userId 0 displayId 0
+D/InsetsController(19635): show(ime())
+D/InsetsController(19635): Setting requestedVisibleTypes to 511 (was 503)
+D/InputConnectionAdaptor(19635): The input method toggled cursor monitoring on
+D/WindowOnBackDispatcher(19635): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@7f78944
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/ImeTracker(19635): com.example.stickit_app:1555ae9e: onShown
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/ImeTracker(19635): com.example.stickit_app:13d07910: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false userId 0 displayId 0
+D/InsetsController(19635): show(ime())
+I/ImeTracker(19635): com.example.stickit_app:13d07910: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+D/InputConnectionAdaptor(19635): The input method toggled cursor monitoring on
+I/ImeTracker(19635): com.example.stickit_app:31b18441: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false userId 0 displayId 0
+D/InsetsController(19635): show(ime())
+I/ImeTracker(19635): com.example.stickit_app:31b18441: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+D/InputConnectionAdaptor(19635): The input method toggled cursor monitoring on
+I/ImeTracker(19635): com.example.stickit_app:4cc55cf6: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false userId 0 displayId 0
+D/InsetsController(19635): show(ime())
+I/ImeTracker(19635): com.example.stickit_app:4cc55cf6: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+D/InputConnectionAdaptor(19635): The input method toggled cursor monitoring on
+I/ImeTracker(19635): com.example.stickit_app:dfff06d9: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false userId 0 displayId 0
+D/InsetsController(19635): show(ime())
+I/ImeTracker(19635): com.example.stickit_app:dfff06d9: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+D/InputConnectionAdaptor(19635): The input method toggled cursor monitoring on
+I/ImeTracker(19635): com.example.stickit_app:5f7fd13b: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false userId 0 displayId 0
+D/InsetsController(19635): show(ime())
+I/ImeTracker(19635): com.example.stickit_app:5f7fd13b: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+D/InputConnectionAdaptor(19635): The input method toggled cursor monitoring on
+I/AssistStructure(19635): Flattened final assist data: 428 bytes, containing 1 windows, 3 views
+W/ple.stickit_app(19635): Suspending all threads took: 21.905ms
+I/ple.stickit_app(19635): Background young concurrent mark compact GC freed 2713KB AllocSpace bytes, 6(384KB) LOS objects, 49% free, 2811KB/5558KB, paused 24.046ms,19.077ms total 146.033ms
+D/WindowOnBackDispatcher(19635): setTopOnBackInvokedCallback (unwrapped): io.flutter.embedding.android.FlutterActivity$1@529289d
+I/ImeTracker(19635): com.example.stickit_app:fcf24acf: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false userId 0 displayId 0
+D/InsetsController(19635): hide(ime())
+D/InsetsController(19635): Setting requestedVisibleTypes to 503 (was 511)
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+I/ImeTracker(19635): system_server:3f9923da: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/WindowOnBackDispatcher(19635): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@82f87b5
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/FlutterJNI(19635): Sending viewport metrics to the engine.
+D/ActivityThread(19635): Package [com.android.vending] reported as REPLACED, but missing application info. Assuming REMOVED.
+D/ActivityThread(19635): Package [com.android.vending] reported as REPLACED, but missing application info. Assuming REMOVED.
+D/WindowOnBackDispatcher(19635): setTopOnBackInvokedCallback (unwrapped): io.flutter.embedding.android.FlutterActivity$1@529289d
+D/WindowOnBackDispatcher(19635): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@82f87b5
+D/WindowOnBackDispatcher(19635): setTopOnBackInvokedCallback (unwrapped): io.flutter.embedding.android.FlutterActivity$1@529289d
+W/ple.stickit_app(19635): Suspending all threads took: 16.452ms
+I/AutofillManager(19635): onInvisibleForAutofill(): expiringResponse
